@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🐍 I’m currently working with Python
 
-![alt-text]("https://gph.is/2RBS6M6")
+
 
 <!--
 **acorvin/acorvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
