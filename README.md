@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🐍 I’m currently working with Python
 
+![turtle](https://media.giphy.com/media/1Ag4tu7YueI0rzkvAp/giphy.gif)
+
 
 
 <!--
