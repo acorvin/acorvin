@@ -1,4 +1,4 @@
-![alt text](headergit.png)
+![logo](./headergit.png)
 
 ### Welcome! 👋
 - 🐍 I’m currently working with Python
