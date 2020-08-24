@@ -1,4 +1,4 @@
-![logo](./headergit.png)
+![logo](acrovin/headergit.png)
 
 ### Welcome! 👋
 - 🐍 I’m currently working with Python
