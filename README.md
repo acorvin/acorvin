@@ -1,4 +1,4 @@
-![logo](https://github.com/acorvin/acorvin/blob/master/headergit.png?raw=true)
+![logo](https://github.com/acorvin/acorvin/blob/master/acd_header.png?raw=true)
 
 ### Welcome! 👋
 - 🐍 I’m currently working with Python
