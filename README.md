@@ -15,7 +15,7 @@
 -  **Currently Learning :** OOP PHP :elephant:	
 -  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
 -  **Ask me about :** Neuroplasticity 🧠 | Spirituality :seedling: | Falling down rabbit holes :rabbit:
--  **Fun fact :** I won't drink coffee without hazelnut creamer. :coffee: I won't eat pickle-less hamburgers. 🥒
+-  **Fun fact :** Can't drink coffee without hazelnut creamer. :coffee: Can't eat pickle-less hamburgers. 🥒
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
