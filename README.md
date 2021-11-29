@@ -19,12 +19,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Most Used Languages
+## 🤟 Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acorvin&theme=blue-green)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Profile View Counter
+## 👀 Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=acorvin)
 
 
