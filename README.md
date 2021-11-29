@@ -10,7 +10,7 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤠 About
+## 🤠 About
 -  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 🖥️ | Creative Coach 🧑‍🏫
 -  **Currently Learning :** OOP PHP :elephant:	
 -  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
