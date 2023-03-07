@@ -12,7 +12,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
 -  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 🖥️ | Creative Coach 🧑‍🏫
--  **Currently Learning :** Python :snake:	
+-  **Currently working with :** Vue3 & Pinia :pineapple:	
 -  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
 -  **Ask me about :** Neuroplasticity 🧠 | Spirituality :seedling: | Falling down rabbit holes :rabbit:
 -  **Fun fact :** Can't drink coffee without hazelnut creamer. :coffee: | Can't eat pickle-less hamburgers. 🥒
