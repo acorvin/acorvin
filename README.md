@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Alex Corvin. 👨‍💻 </h1>    
+<h1 align="center"> Hi, I'm Alex! 👨‍💻 </h1>    
 
 <h3 align="center">  📙 Brand Storyteller | Web Developer 💻</h3> <br>
 
