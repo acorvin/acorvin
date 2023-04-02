@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-corvin/"><img alt="LinkedIn" src="https://img.shields.io/badge/AlexCorvin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-corvin/"></a>
-<a href="https://twitter.com/CorvinDesigns"><img alt="Twitter" src="https://img.shields.io/badge/CorvinDesigns-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CorvinDesigns"></a>
+<a href="https://instagram.com/corvindesigns"><img alt="Instagram" src="https://img.shields.io/badge/CorvinDesigns-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://instagram.com.com/corvindesigns"></a>
 <a href="https://dribbble.com/corvindesigns"><img alt="Dribbble" src="https://img.shields.io/badge/CorvinDesigns-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https://dribbble.com/corvindesigns"></a>
 </p>
 
