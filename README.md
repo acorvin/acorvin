@@ -11,7 +11,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
--  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 🖥️ | Creative Coach 🧑‍🏫
+-  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 💻 | Illustrator 🧑‍🎨
 -  **Currently working with :** PHP8 | Laravel | Livewire 🟥
 -  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
 -  **Ask me about :** Neuroplasticity 🧠 | Spirituality :seedling: | Falling down rabbit holes :rabbit:
