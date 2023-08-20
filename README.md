@@ -13,8 +13,8 @@
 ## 🤠 About
 -  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 💻 | Illustrator 🧑‍🎨
 -  **Currently working with :** PHP8 | Laravel | Livewire 🟥
--  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
--  **Ask me about :** Neuroplasticity 🧠 | Falling down rabbit holes :rabbit:
+-  **Hobbies :** Reading :books: | Illustration 🎨 | Baking :pie: 
+-  **Ask me about :** Law of Assumption 🌠 
 -  **Fun fact :** I love data just as much as design. 📊
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
