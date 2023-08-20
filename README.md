@@ -15,7 +15,7 @@
 -  **Currently working with :** PHP8 | Laravel | Livewire 🟥
 -  **Hobbies :** Reading :books: | Gaming :video_game: | Baking :pie: 
 -  **Ask me about :** Neuroplasticity 🧠 | Falling down rabbit holes :rabbit:
--  **Fun fact :** Can't drink coffee without hazelnut creamer. :coffee: | Can't eat pickle-less hamburgers. 🥒
+-  **Fun fact :** I love data just as much as design. 📊
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
