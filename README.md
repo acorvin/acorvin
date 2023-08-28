@@ -11,7 +11,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
--  **CorvinDesigns:**  Designer 🎨 | Developer 💻 | Illustrator 🧑‍🎨
+-  Designer 🎨 | Developer 💻 | Illustrator 🧑‍🎨
 -  **Currently working with :** PHP8 | Laravel | Livewire 🟥
 -  **Hobbies :** Reading :books: | Art 🎨 | Baking :pie: 
 
