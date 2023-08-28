@@ -11,11 +11,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
--  **CorvinDesigns:**  Brand Designer 🎨 | Web Developer 💻 | Illustrator 🧑‍🎨
+-  **CorvinDesigns:**  Designer 🎨 | Developer 💻 | Illustrator 🧑‍🎨
 -  **Currently working with :** PHP8 | Laravel | Livewire 🟥
--  **Hobbies :** Reading :books: | Illustration 🎨 | Baking :pie: 
--  **Ask me about :** The Law of Assumption 🌠 
--  **Fun fact :** I love data just as much as design. 📊
+-  **Hobbies :** Reading :books: | Art 🎨 | Baking :pie: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
