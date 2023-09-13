@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi, I'm Alex! 👨‍💻 </h1>    
 
-<h3 align="center">  🎨 Designer | Developer 💻 | Data Geek 📊</h3> <br>
+<h3 align="center">  🎨 Designer | 💻 Developer | 📊 Data Geek </h3> <br>
 
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/alexander-corvin/"><img alt="LinkedIn" src="https://img.shields.io/badge/AlexCorvin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-corvin/"></a> -->
