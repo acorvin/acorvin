@@ -7,6 +7,11 @@
 <!-- <a href="https://www.linkedin.com/in/alexander-corvin/"><img alt="LinkedIn" src="https://img.shields.io/badge/AlexCorvin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-corvin/"></a> -->
 <a href="https://instagram.com/corvindesigns"><img alt="Instagram" src="https://img.shields.io/badge/CorvinDesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com.com/corvindesigns"></a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,vue,python,figma,ps,ai,ae&perline=4" />
+  </a>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
