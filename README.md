@@ -16,7 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤠 About
-I'm the busy turtle who brings brand stories to life through awesome visuals. When I am not in creative mode, I'm still in creative mode, but deep in the world of data science, helping organizations make a positive impact on society. Whether I'm designing visual elements for a brand's goals or aggregating data to uncover hidden insights, I feel grateful and blessed that I get to create every day to benefit the next person.
+I'm the busy turtle who brings brand stories to life through awesome visuals. When I'm not in creative mode, I'm still in creative mode, but deep in the world of data science, helping organizations make a positive impact on society. Whether I'm designing visual elements for a brand's goals or aggregating data to uncover hidden insights, I feel grateful and blessed that I get to create every day to benefit the next person.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
