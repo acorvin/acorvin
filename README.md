@@ -25,10 +25,6 @@ I can typically be found bringing brand stories to life through awesome visuals.
 ## My Go-To Coding
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acorvin&theme=blue-green)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 👀 Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=acorvin)
 
 
 
