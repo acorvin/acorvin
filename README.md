@@ -18,8 +18,6 @@
 ## A Bit About Me
 I can typically be found bringing brand stories to life through awesome visuals. When I'm not in design mode, I'm still in creative mode, but deep in the world of data science, helping organizations make a positive impact on society. Whether I'm designing visual elements for a brand's goals or aggregating data to uncover hidden insights, I feel grateful that I get to create every day to benefit the next person.
 
-💠 **Current Status**: Seeker of hidden truths in the data's twilight, where numbers whisper, and mysteries await discovery. 🕵️‍♂️🧩📈
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## My Go-To Coding
