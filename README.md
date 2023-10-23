@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,php,laravel,figma,ps,ai,ae&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,php,laravel,figma,ps,ai,ae&perline=4" />
   </a>
 </p>
 
