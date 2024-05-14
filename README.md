@@ -1,14 +1,7 @@
 
 <h1 align="center"> Hi, I'm Alex! 👨‍💻 </h1>    
 
-<h3 align="center">  🎨 Designer | 🖼️ Illustrator | 📊 Data Geek</h3> <br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,php,laravel,figma,ps,ai,ae&perline=4" />
-  </a>
-</p>
-
+<h3 align="center">  🎨 Designer | 🖼️ Illustrator </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## A Bit About Me
