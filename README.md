@@ -1,1 +1,1 @@
-This repository is an archive of my previous development work. My focus today is on working with non-profit organizations, illustrating, and living a slower life, enjoying each moment I'm fortunate to be given.
+This profile archives my previous development work. I'm now focusing on collaborations with non-profits and illustration projects, while also enjoying life at a slower pace. Although my activity here has decreased, I may still occasionally contribute to new dev projects if the need arises.
