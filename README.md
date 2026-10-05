@@ -1,4 +1,4 @@
-### Systems Architecture • Applied Data Science • Agentic AI
+### Systems Architecture • Data Science • Agentic AI
 
 *Bridging information design with computational data tools and autonomous agentic workflows.*
 
