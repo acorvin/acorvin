@@ -2,7 +2,7 @@
 
 <p align="center">
   Data science and information design<br>
-  Pontevedra, Galicia, Spain
+  Galicia, Spain
 </p>
 
 <p align="center">
