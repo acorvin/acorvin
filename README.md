@@ -22,8 +22,8 @@ Every project starts with that raw material. The records come first, then the me
 
 ## Selected work
 
-**Child Health, Country by Country.** Under-five mortality fell in all 54 countries compared and child stunting in all 48, but once room to move is taken into account, the data shows neither catching up nor falling further behind. The page compares each country's first and latest Demographic and Health Survey across three measures, and a separate script rebuilds each headline figure from the raw data.
-<br>[Case study](https://alexcorvin.io/work/child-health-by-country) · [Live page](https://acorvin.github.io/dhs-health-indicator-change/) · [Code](https://github.com/acorvin/dhs-health-indicator-change)
+**Five Springs.** A picture-book data story about the children who get to turn five. A garden of 1,000 flowers stands for 1,000 births, and readers follow one seed through any of 87 countries, built from all 322 standard Demographic and Health Surveys. Under-five deaths fell in all 54 countries compared, and a separate script checks every value against the raw data.
+<br>[Case study](https://alexcorvin.io/work/five-springs) · [Live page](https://acorvin.github.io/five-springs/) · [Code](https://github.com/acorvin/five-springs)
 
 **AI Data Center Power.** Ten data centers hold 39% of the AI power capacity that Epoch AI tracks. The page draws the 73 sites with a power figure as circles sized by megawatts, ranks the ten largest by power and by computing, and opens each one to show its owner and users.
 <br>[Case study](https://alexcorvin.io/work/ai-data-center-power) · [Live page](https://acorvin.github.io/ai-data-center-power/) · [Code](https://github.com/acorvin/ai-data-center-power)
