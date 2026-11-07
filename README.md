@@ -1,7 +1,7 @@
 <h1 align="center">Alex Corvin</h1>
 
 <p align="center">
-  Data science and information design<br>
+  Data Scientist and Information Designer<br>
   Galicia, Spain
 </p>
 
@@ -14,9 +14,9 @@
 
 <br>
 
-I'm a data scientist specializing in the information organizations already own but rarely touch: the messy spreadsheets, forgotten records, and research buried in PDFs. A 2020 IDC survey for Seagate found that 68% of the data available to businesses goes unused.
+Organizations sit on mountains of information they rarely examine. Spreadsheets, old records, and research locked inside PDFs pile up. A 2020 IDC study for Seagate found that 68 percent of all business data goes completely unused.
 
-That raw material is where every project begins. I start with the records, pull the metrics, frame a specific question, and only then start designing. Every chart I deliver keeps its methodology and limitations explicitly on display right alongside the visual.
+That raw material is where every project begins. I dig into the records first, uncover the metrics, and shape them into a clear narrative. The visual design comes only after the story takes form. Every piece keeps the methodology and the limits of the data right on the page alongside the charts so the context remains transparent.
 
 <br>
 
