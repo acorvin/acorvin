@@ -14,9 +14,9 @@
 
 <br>
 
-I'm a data scientist, and I work with the data that organizations already have but rarely look at: spreadsheets, records and research that exists only as PDFs. A 2020 IDC survey for Seagate found that 68% of the data available to businesses goes unused.
+I'm a data scientist specializing in the information organizations already own but rarely touch: the messy spreadsheets, forgotten records, and research buried in PDFs. A 2020 IDC survey for Seagate found that 68% of the data available to businesses goes unused.
 
-Every project starts with that raw material. The records come first, then the metrics, then a single question, and only after that the design. The method and the limits of the data stay on the page beside the chart.
+That raw material is where every project begins. I start with the records, pull the metrics, frame a specific question, and only then start designing. Every chart I deliver keeps its methodology and limitations explicitly on display right alongside the visual.
 
 <br>
 
